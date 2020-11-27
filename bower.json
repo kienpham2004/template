@@ -1,0 +1,17 @@
+{
+  "name": "demo-bower",
+  "version": "1.0.1",
+  "authors": [
+    "Pham Kien <phamkien20041998@gmail.com>"
+  ],
+  "description": "template project instagram",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kienpham2004/template.git",
+  "ignore": [
+    "README.md"
+  ]
+}
